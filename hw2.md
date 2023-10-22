@@ -170,7 +170,8 @@ struct ContentView_Previews: PreviewProvider {
     }
 }
 
-    
 ```
 
-<video src="s1101537hw2.mp4" controls="controls" width="500" height="300"></video>
+<video width="320" height="240" controls>
+    <source src="s1101537hw2.mp4" type="video/mp4">
+</video>
