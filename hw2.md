@@ -172,4 +172,4 @@ struct ContentView_Previews: PreviewProvider {
 
 ```
 
-![]()
+![](amo8w-mfwgy.gif)
