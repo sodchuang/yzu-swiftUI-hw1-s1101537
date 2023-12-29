@@ -209,5 +209,4 @@ struct RestaurantDetailView:View {
 }
 ```
 
-![](amo8w-mfwgy.gif)
-
+![](RPReplay_Final1703866927.gif)
